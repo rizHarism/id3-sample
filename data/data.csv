@@ -1,0 +1,11 @@
+﻿Cuaca,Suhu,Kelembapan,Berangin,Main
+Cerah,Panas,Tinggi,Tidak,Tidak Bermain
+Cerah,Panas,Tinggi,Ya,Tidak Bermain
+Mendung,Panas,Tinggi,Tidak,Bermain
+Hujan,Sejuk,Tinggi,Tidak,Bermain
+Hujan,Dingin,Normal,Tidak,Bermain
+Hujan,Dingin,Normal,Ya,Tidak Bermain
+Mendung,Dingin,Normal,Ya,Bermain
+Cerah,Sejuk,Tinggi,Tidak,Tidak Bermain
+Cerah,Dingin,Normal,Tidak,Bermain
+Hujan,Sejuk,Normal,Tidak,Bermain
